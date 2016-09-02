@@ -5,7 +5,7 @@ for x in range(n):
 	s = eval(input("digite um numero da sequencia: "))
 	if s > 0 :
 		soma = soma + s 
-	cont = CONT + 1
+	cont = cont + 1
 
 print ("resultado é: ", soma)
 
